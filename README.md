@@ -1,4 +1,6 @@
 # praktikum4
+## Penjelasan perulangan pada bahasa pemrograman
+Perulangan dalam bahasa pemrograman berfungsi menyuruh komputer melakukan sesuatu secara berulang-ulang. Terdapat 2 jenis perulangan pada python, yaitu perulangan "for" dan "while". Perulangan "for" disebut counted loop (perulangan yang terhitung), sementara perulangan "while" disebut uncounted loop (perulangan yang tak terhitung). Perbedaannya adalah, perulangan "for" biasanya digunakan untuk mengulangi kode yang sudah diketahui banyak perulangannya. Sementara perulangan "while" untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya. 
 ## Membuat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut:
 - Program meminta memasukkan data sebanyak-banyaknya (gunakan perulangan).
 - Tampilkan pertanyaan untuk menambah data (y/t)?, apabila jawaban t (tidak) maka program akan menampilkan daftar datanya.
